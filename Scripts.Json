@@ -10,5 +10,14 @@
     {
         "Name": "Reality Orb",
         "Require": "require(4780399515).load(Username)"
+    },
+    {
+        "Name": "Doge Army",
+        "Require": "require(5115249013).fehack(Username)"
     }
+    {
+        "Name": "Mr. Bye Bye",
+        "Require": "require(0xB4AF21B4):Start(Username,"AAA")"
+    }
+
 ]
