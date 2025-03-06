@@ -1,1 +1,14 @@
-{Name = "Sledge Hammer", Require = ""}
+[
+    {
+        "Name": "Sensation hub Safe",
+        "Require": "require(85380043749737)(Username)"
+    },
+    {
+        "Name": "Sledge hammer",
+        "Require": "require(8038037940).CLoad(Username)"
+    },
+    {
+        "Name": "Reality Orb",
+        "Require": "require(4780399515).load(Username)"
+    }
+]
