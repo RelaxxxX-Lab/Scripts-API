@@ -17,6 +17,6 @@
     },
     {
         "Name": "Mr. Bye Bye",
-        "Require": "require(0xB4AF21B4):Start(Username,"AAA")"
+        "Require": "require(0xB4AF21B4):Start(Username,'AAA')"
     }
 ]
